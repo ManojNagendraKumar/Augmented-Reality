@@ -15,7 +15,7 @@ Some misalignments occurred due to poor marker detection, perspective distortion
 Conclusion:
 The project successfully demonstrated precise AR-based image overlay using OpenCV and ArUco markers. However, improvements in marker detection and perspective adjustments could enhance accuracy further.
 
-# [Augmented Reality.pdf](https://github.com/user-attachments/files/19348321/Augmented.Reality.pdf)
+[Augmented Reality.pdf](https://github.com/user-attachments/files/19348321/Augmented.Reality.pdf)
 
 
 
